@@ -45,18 +45,13 @@
   "fontWeight":0
   },
   {
-  "radius":50,
-  "imageBorderWidth":null,
-  "spacing":12,
-  "imageBorderColor":null,
-  "marginY":0,
-  "type":"icon",
-  "marginTop":10,
   "layout":"category",
-  "labelFontSize":14,
-  "marginBottom":10,
+  "type":"icon",
   "wrap":true,
-  "pos":300,
+  "showShortDescription":true,
+  "size":0.9,
+  "radius":50.0,
+  "spacing":12.0,
   "items":[
   {
   "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw==",
@@ -92,15 +87,15 @@
   "backgroundColor":"#ffffff"
   },
   {
-  "backgroundColor":"#ffffff",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
+  "image":"https://aultoon.github.io/gold/img/jewel74.png",
   "colors":["#ff00bcd4",
   "#ff80deea"],
-  "title":"Bracelet",
-  "keepDefaultTitle":true,
+  "backgroundColor":"#ffffff",
   "originalColor":false,
-  "image":"https://aultoon.github.io/gold/img/jewel74.png",
+  "keepDefaultTitle":true,
   "showDescription":false,
-  "category":null
+  "title":"Bracelet"
   },
   {
   "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
@@ -114,18 +109,23 @@
   "keepDefaultTitle":true
   }
   ],
-  "marginRight":10,
-  "paddingY":0,
   "line":false,
-  "showShortDescription":true,
-  "imageSpacing":0,
-  "imageBorderStyle":"solid",
-  "paddingX":0,
+  "marginLeft":10.0,
+  "marginRight":10.0,
+  "marginTop":10.0,
+  "marginBottom":10.0,
+  "pos":300,
+  "paddingX":0.0,
+  "paddingY":0.0,
+  "marginX":0.0,
+  "marginY":0.0,
+  "hideTitle":false,
   "noBackground":false,
-  "size":0.9,
-  "marginLeft":10,
-  "marginX":0,
-  "hideTitle":false
+  "imageBorderWidth":null,
+  "imageBorderColor":null,
+  "imageBorderStyle":"solid",
+  "imageSpacing":0.0,
+  "labelFontSize":14.0
   },
   {
   "upHeight":0,
