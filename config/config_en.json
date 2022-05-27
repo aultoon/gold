@@ -667,14 +667,14 @@
   "Drawer":{
   "safeArea":true,
   "logoConfig":{
-  "marginBottom":10,
   "height":38,
-  "marginTop":60,
   "marginLeft":5,
   "marginRight":0,
+  "marginTop":60,
+  "marginBottom":10,
   "boxFit":"cover"
   },
-  "key":"z37wefg3uu",
+  "key":"7312nbgl7k",
   "logo":"assets/images/logo.png",
   "filter":0,
   "subDrawerItem":{
@@ -715,8 +715,8 @@
   },
   "items":[
   {
-  "show":true,
-  "type":"home"
+  "type":"home",
+  "show":true
   },
   {
   "type":"blog",
@@ -731,8 +731,8 @@
   "show":true
   },
   {
-  "show":false,
-  "type":"profile"
+  "type":"profile",
+  "show":false
   },
   {
   "type":"login",
@@ -740,7 +740,7 @@
   },
   {
   "type":"category",
-  "show":true
+  "show":false
   },
   {
   "type":"web",
@@ -755,16 +755,16 @@
   "show":false
   },
   {
-  "show":false,
-  "type":"web-j30s60kwxa"
+  "type":"web-j30s60kwxa",
+  "show":false
   }
   ],
   "zoomConfig":{
-  "angle":0,
-  "mainScreenScale":0.3,
-  "slideMargin":0,
-  "backgroundImage":null,
-  "slideWidth":0.65,
-  "borderRadius":16,
+  "style":"3Dout",
   "enableShadow":false,
-  "style":"3Dout"}}}
+  "angle":0,
+  "slideWidth":0.65,
+  "slideMargin":0,
+  "mainScreenScale":0.3,
+  "borderRadius":16,
+  "backgroundImage":null}}}
