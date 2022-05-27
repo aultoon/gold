@@ -465,7 +465,7 @@
   }
   ],
   "Setting":{
-  "ProductListLayout":"pinterest",
+  "ProductListLayout":"card",
   "FontHeader":"Raleway",
   "MainColor":"ffa166f5",
   "ShowChat":true,
