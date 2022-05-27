@@ -465,7 +465,7 @@
   }
   ],
   "Setting":{
-  "ProductListLayout":"card",
+  "ProductListLayout":"list",
   "FontHeader":"Raleway",
   "MainColor":"ffa166f5",
   "ShowChat":true,
