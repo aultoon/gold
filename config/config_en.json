@@ -475,7 +475,7 @@
   "MainColor":"ffa166f5",
   "FontHeader":"Raleway",
   "ShowChat":true,
-  "ProductListLayout":"list",
+  "ProductListLayout":"pinterest",
   "FontFamily":"Roboto",
   "StickyHeader":false
   },
