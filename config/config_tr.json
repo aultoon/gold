@@ -37,7 +37,7 @@
       "marginBottom": 0,
       "pos": 200,
       "marginRight": 20,
-      "title": "Search",
+      "title": "Ara",
       "alignment": "centerLeft",
       "usePrimaryColor": true,
       "isSafeArea": false,
@@ -63,7 +63,7 @@
           "backgroundColor": "#ffffff",
           "originalColor": false,
           "showDescription": false,
-          "title": "Earring",
+          "title": "Küpe",
           "image": "https://aultoon.github.io/gold/img/jewel70.png",
           "colors": [
             "#ff424242"
@@ -73,7 +73,7 @@
         },
         {
           "keepDefaultTitle": true,
-          "title": "Ring",
+          "title": "Yüzük",
           "originalColor": false,
           "showDescription": false,
           "backgroundColor": "#ffffff",
@@ -85,7 +85,7 @@
         },
         {
           "keepDefaultTitle": true,
-          "title": "Necklace",
+          "title": "Kolye",
           "image": "https://aultoon.github.io/gold/img/jewel46.png",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw==",
           "backgroundColor": "#ffffff",
@@ -96,7 +96,7 @@
           "showDescription": false
         },
         {
-          "title": "Bracelet",
+          "title": "Bileklik",
           "showDescription": false,
           "keepDefaultTitle": true,
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
@@ -117,7 +117,7 @@
           "colors": [
             "#ff616161"
           ],
-          "title": "New Collection"
+          "title": "Yeni koleksiyon"
         }
       ],
       "marginRight": 10,
@@ -223,7 +223,7 @@
       "hidePrice": false,
       "rows": 1,
       "parallax": false,
-      "name": "New Collection ⭐️",
+      "name": "Yeniler ⭐️",
       "columns": 0,
       "backgroundWidthMode": true,
       "showHeart": false,
@@ -262,7 +262,7 @@
       "parallaxImageRatio": 1.2,
       "showCartIcon": true,
       "showStockStatus": true,
-      "name": "Gold Rings",
+      "name": "Altın Yüzükler",
       "onSale": false,
       "isSnapping": false,
       "hideStore": false,
@@ -284,7 +284,7 @@
       "rows": 1,
       "vMargin": 0,
       "showCartIcon": true,
-      "name": "Silver Necklaces",
+      "name": "Gümüş kolyeler",
       "enableRating": true,
       "parallaxImageRatio": 1.2,
       "pos": 700,
@@ -332,7 +332,7 @@
       "showQuantity": false,
       "image": "",
       "hideEmptyProductListRating": false,
-      "name": "Silver Rings 💍",
+      "name": "Gümüş Yüzükler 💍",
       "hideStore": false,
       "imageBoxfit": "cover",
       "showOnlyImage": false,
@@ -365,10 +365,10 @@
     {
       "pos": 900,
       "layout": "recentView",
-      "name": "Recent View"
+      "name": "Görüntülenenler"
     },
     {
-      "name": "Our Blog Posts",
+      "name": "Blog",
       "pos": 1000,
       "layout": "blog"
     },
@@ -407,7 +407,7 @@
       "backgroundHeight": 250,
       "vMargin": 0,
       "vPadding": 0,
-      "name": "Best Sellers 💫",
+      "name": "En çok satanlar 💫",
       "showQuantity": false,
       "hideStore": false,
       "image": "",
@@ -572,44 +572,44 @@
       "parallax": false,
       "remapCategories": [
         {
-          "name": "Gold",
+          "name": "Altın",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
         },
         {
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
-          "name": "Ring"
+          "name": "Yüzük"
         },
         {
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw=="
         },
         {
-          "name": "Bracelet",
+          "name": "Bileklik",
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ=="
         },
         {
-          "name": "Necklace",
+          "name": "Kolye",
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw=="
         },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
-          "name": "Silver"
+          "name": "Gümüş"
         },
         {
-          "name": "Ring",
+          "name": "Yüzük",
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw=="
         },
         {
-          "name": "Necklace",
+          "name": "Kolye",
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw=="
         },
         {
-          "name": "Others",
+          "name": "Diğerleri",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
         },
         {
@@ -625,14 +625,14 @@
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
         },
         {
-          "name": "Bestseller",
+          "name": "En çok satan kitap",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NTM3ODE1MDU3Nw==",
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
         },
         {
           "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjIzMTYwMQ==",
-          "name": "Necklace"
+          "name": "Kolye"
         },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
@@ -801,7 +801,7 @@
         "icon": "tag",
         "iconFontFamily": "CupertinoIcons",
         "enableForward": false,
-        "title": "Rings",
+        "title": "Yüzük",
         "webUrl": "collections/earring",
         "enableBackward": true,
         "webViewMode": false,
@@ -813,7 +813,7 @@
           "y": 0,
           "x": 0
         },
-        "title": "Gold",
+        "title": "Altın",
         "fontSize": null,
         "titleColor": null
       },
