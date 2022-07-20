@@ -1,836 +1,802 @@
 {
-  "HorizonLayout": [
-    {
-      "showCart": true,
-      "showNotification": false,
-      "showSearch": false,
-      "showMenu": true,
-      "showLogo": true,
-      "image": "assets/images/logo.png",
-      "menuIcon": {
-        "name": "menu_rounded",
-        "fontFamily": "MaterialIcons"
-      },
-      "pos": 100,
-      "layout": "logo"
-    },
-    {
-      "paddingTop": 0,
-      "layout": "header_search",
-      "paddingRight": 15,
-      "height": 45,
-      "showSearch": true,
-      "fontWeight": 0,
-      "paddingBottom": 0,
-      "radius": 9,
-      "paddingLeft": 12,
-      "rotate": [],
-      "textOpacity": 0.3,
-      "boxShadow": {
-        "spreadRadius": 1.0101010101010102,
-        "y": 4,
-        "x": 0,
-        "colorOpacity": 0.09,
-        "blurRadius": 21.01010101010101
-      },
-      "marginTop": 10,
-      "marginBottom": 0,
-      "pos": 200,
-      "marginRight": 20,
-      "title": "Search",
-      "alignment": "centerLeft",
-      "usePrimaryColor": true,
-      "isSafeArea": false,
-      "borderInput": true,
-      "marginLeft": 20,
-      "fontSize": 18
-    },
-    {
-      "line": false,
-      "size": 0.9,
-      "imageSpacing": 0,
-      "marginBottom": 10,
-      "imageBorderColor": null,
-      "noBackground": false,
-      "type": "icon",
-      "marginTop": 10,
-      "layout": "category",
-      "imageBorderStyle": "solid",
-      "paddingY": 0,
-      "showShortDescription": true,
-      "items": [
-        {
-          "backgroundColor": "#ffffff",
-          "originalColor": false,
-          "showDescription": false,
-          "title": "Earring",
-          "image": "https://aultoon.github.io/gold/img/jewel70.png",
-          "colors": [
-            "#ff424242"
-          ],
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw==",
-          "keepDefaultTitle": true
-        },
-        {
-          "keepDefaultTitle": true,
-          "title": "Ring",
-          "originalColor": false,
-          "showDescription": false,
-          "backgroundColor": "#ffffff",
-          "image": "https://aultoon.github.io/gold/img/jewel124.png",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "colors": [
-            "#ff616161"
-          ]
-        },
-        {
-          "keepDefaultTitle": true,
-          "title": "Necklace",
-          "image": "https://aultoon.github.io/gold/img/jewel46.png",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw==",
-          "backgroundColor": "#ffffff",
-          "originalColor": false,
-          "colors": [
-            "#ff757575"
-          ],
-          "showDescription": false
-        },
-        {
-          "title": "Bracelet",
-          "showDescription": false,
-          "keepDefaultTitle": true,
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
-          "image": "https://aultoon.github.io/gold/img/jewel74.png",
-          "backgroundColor": "#ffffff",
-          "colors": [
-            "#ff616161"
-          ],
-          "originalColor": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
-          "keepDefaultTitle": true,
-          "originalColor": true,
-          "image": "https://aultoon.github.io/gold/img/jewel88.png",
-          "showDescription": false,
-          "backgroundColor": "#ffffff",
-          "colors": [
-            "#ff616161"
-          ],
-          "title": "New Collection"
-        }
-      ],
-      "marginRight": 10,
-      "marginY": 0,
-      "pos": 300,
-      "hideTitle": false,
-      "marginLeft": 10,
-      "paddingX": 0,
-      "marginX": 0,
-      "wrap": true,
-      "radius": 50,
-      "spacing": 12,
-      "labelFontSize": 14,
-      "imageBorderWidth": null
-    },
-    {
-      "design": "swiper",
-      "showBackground": false,
-      "showNumber": false,
-      "isBlur": false,
-      "intervalTime": 3,
-      "items": [
-        {
-          "products": [],
-          "defaultShowProduct": false,
-          "image": "https://aultoon.github.io/gold/img/slide1.jpg",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "showSubcategory": false,
-          "bannerWithProduct": false
-        },
-        {
-          "defaultShowProduct": false,
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
-          "bannerWithProduct": false,
-          "image": "https://aultoon.github.io/gold/img/slide2.jpg",
-          "products": [],
-          "showSubcategory": false
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
-          "showSubcategory": false,
-          "defaultShowProduct": false,
-          "bannerWithProduct": false,
-          "image": "https://aultoon.github.io/gold/img/slide3.jpg",
-          "products": []
-        }
-      ],
-      "isSlider": true,
-      "radius": 20,
-      "enableParallax": false,
-      "upHeight": 0,
-      "marginLeft": null,
-      "layout": "bannerImage",
-      "fit": "fitWidth",
-      "parallax": false,
-      "parallaxImageRatio": 1.2,
-      "marginRight": null,
-      "marginTop": 0,
-      "autoPlay": false,
-      "pos": 400,
-      "padding": 0,
-      "marginBottom": 0
-    },
-    {
-      "hideStore": false,
-      "cartIconRadius": 9,
-      "showCartButton": false,
-      "featured": false,
-      "showCartIcon": true,
-      "imageBoxfit": "cover",
-      "hideEmptyProductListRating": false,
-      "enableRating": false,
-      "showQuantity": false,
-      "showCartIconColor": false,
-      "cardDesign": "card",
-      "isBulk": null,
-      "backgroundHeight": 183,
-      "spaceWidth": 12.608443859011626,
-      "enableBottomAddToCart": false,
-      "showCountDown": false,
-      "pos": 500,
-      "layout": "threeColumn",
-      "showStockStatus": false,
-      "showCartButtonWithQuantity": false,
-      "image": "",
-      "showOnlyImage": false,
-      "onSale": false,
-      "isPreviewing": null,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
-      "imageRatio": 1.2,
-      "borderRadius": 12,
-      "boxShadow": {
-        "colorOpacity": 0.1,
-        "y": 9,
-        "x": 7,
-        "blurRadius": 10,
-        "spreadRadius": 10
-      },
-      "isSnapping": true,
-      "parallaxImageRatio": 1.2,
-      "backgroundRadius": 0,
-      "hideTitle": false,
-      "hidePrice": false,
-      "rows": 1,
-      "parallax": false,
-      "name": "New Collection ⭐️",
-      "columns": 0,
-      "backgroundWidthMode": true,
-      "showHeart": false,
-      "vMargin": 18,
-      "hPadding": 8,
-      "vPadding": 0,
-      "hMargin": 9
-    },
-    {
-      "enableRating": true,
-      "hideTitle": false,
-      "enableBottomAddToCart": false,
-      "parallax": false,
-      "imageRatio": 1.2,
-      "backgroundRadius": 10,
-      "hPadding": 0,
-      "vMargin": 0,
-      "image": "",
-      "showCartIconColor": false,
-      "imageBoxfit": "cover",
-      "showCartButton": false,
-      "cardDesign": "card",
-      "hidePrice": false,
-      "layout": "fourColumn",
-      "showCountDown": false,
-      "hideEmptyProductListRating": false,
-      "hMargin": 6,
-      "borderRadius": 3,
-      "vPadding": 0,
-      "showQuantity": false,
-      "rows": 1,
-      "featured": false,
-      "showOnlyImage": false,
-      "columns": 0,
-      "showCartButtonWithQuantity": false,
-      "parallaxImageRatio": 1.2,
-      "showCartIcon": true,
-      "showStockStatus": true,
-      "name": "Gold Rings",
-      "onSale": false,
-      "isSnapping": false,
-      "hideStore": false,
-      "pos": 600,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-      "showHeart": false,
-      "cartIconRadius": 9
-    },
-    {
-      "isSnapping": false,
-      "hideTitle": false,
-      "layout": "threeColumn",
-      "hideStore": true,
-      "imageBoxfit": "contain",
-      "vPadding": 2,
-      "cardDesign": "card",
-      "isBulk": null,
-      "hideEmptyProductListRating": false,
-      "rows": 1,
-      "vMargin": 0,
-      "showCartIcon": true,
-      "name": "Silver Necklaces",
-      "enableRating": true,
-      "parallaxImageRatio": 1.2,
-      "pos": 700,
-      "borderRadius": 3,
-      "backgroundRadius": 10,
-      "showCartButton": false,
-      "imageRatio": 1.2,
-      "showOnlyImage": false,
-      "hidePrice": false,
-      "showHeart": false,
-      "isPreviewing": null,
-      "columns": 3,
-      "showCountDown": false,
-      "image": "",
-      "cartIconRadius": 9,
-      "showCartButtonWithQuantity": false,
-      "onSale": false,
-      "showQuantity": false,
-      "showCartIconColor": false,
-      "parallax": false,
-      "enableBottomAddToCart": false,
-      "hPadding": 6,
-      "showStockStatus": false,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw==",
-      "hMargin": 6
-    },
-    {
-      "backgroundWidthMode": true,
-      "boxShadow": {
-        "y": 9,
-        "colorOpacity": 0.1,
-        "spreadRadius": 10,
-        "x": 7,
-        "blurRadius": 10
-      },
-      "showStockStatus": false,
-      "showCartButtonWithQuantity": false,
-      "cartIconRadius": 9,
-      "columns": 0,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
-      "backgroundRadius": 0,
-      "parallax": false,
-      "showCartIcon": true,
-      "spaceWidth": 12.608443859011626,
-      "showQuantity": false,
-      "image": "",
-      "hideEmptyProductListRating": false,
-      "name": "Silver Rings 💍",
-      "hideStore": false,
-      "imageBoxfit": "cover",
-      "showOnlyImage": false,
-      "showCartIconColor": false,
-      "parallaxImageRatio": 1.2,
-      "onSale": false,
-      "borderRadius": 12,
-      "hPadding": 8,
-      "backgroundHeight": 183,
-      "vPadding": 0,
-      "showCountDown": false,
-      "featured": false,
-      "isBulk": null,
-      "hidePrice": false,
-      "cardDesign": "card",
-      "imageRatio": 1.2,
-      "enableBottomAddToCart": false,
-      "isPreviewing": null,
-      "rows": 1,
-      "showCartButton": false,
-      "vMargin": 18,
-      "hMargin": 9,
-      "enableRating": false,
-      "showHeart": false,
-      "isSnapping": true,
-      "layout": "threeColumn",
-      "hideTitle": false,
-      "pos": 800
-    },
-    {
-      "pos": 900,
-      "layout": "recentView",
-      "name": "Recent View"
-    },
-    {
-      "name": "Our Blog Posts",
-      "pos": 1000,
-      "layout": "blog"
-    },
-    {
-      "cartIconRadius": 9,
-      "enableBottomAddToCart": false,
-      "hideEmptyProductListRating": false,
-      "limit": 20,
-      "showStockStatus": true,
-      "enableRating": true,
-      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Mjg4NjI0MjQ4MQ==",
-      "isSnapping": false,
-      "showCountDown": false,
-      "isPreviewing": null,
-      "showCartIconColor": false,
-      "layout": "simpleList",
-      "pos": 1100,
-      "rows": 1,
-      "cardDesign": "card",
-      "showOnlyImage": false,
-      "hideTitle": false,
-      "showCartButtonWithQuantity": false,
-      "columns": 3,
-      "parallax": false,
-      "parallaxImageRatio": 1.2,
-      "isBulk": null,
-      "showCartButton": false,
-      "imageRatio": 1.2,
-      "imageBoxfit": "cover",
-      "backgroundWidthMode": true,
-      "borderRadius": 3,
-      "showHeart": false,
-      "backgroundRadius": 10,
-      "showCartIcon": true,
-      "hMargin": 6,
-      "backgroundHeight": 250,
-      "vMargin": 0,
-      "vPadding": 0,
-      "name": "Best Sellers 💫",
-      "showQuantity": false,
-      "hideStore": false,
-      "image": "",
-      "hPadding": 0,
-      "onSale": false,
-      "hidePrice": false
-    },
-    {
-      "items": [
-        {
-          "id": "[#76a3a]",
-          "code": "CYn2wMAvSKp",
-          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
-          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e6621816c3ce06125e2e0e/previews/61e6621916c3ce06125e2e47/download/271695694_119019583971187_7369220547605639986_n.jpg",
-          "mediaCaption": "한국화 미인도 시리즈 81\\n연두색 치마를 입고\\n앉아 있는 여인\\nKorean painting, a beauty 81st\\nA beauty who wears Korean\\ntraditional clothes called Hanbok.\\n#한복그림 #한복 #미인도 #한국화\\n#한국전통의상 #한국화_느낌\\n#한복입은여인 #한국전통옷_한복\\n#illustration #Korean_painting\\n#hanbok #Korean_hanbok #beauty\\n#Korean_clothes #Korean_beauty\\n#hanbok_Korean \\n#Korean_traditional_culture\\n#Korean_traditional_culture_hanbok\\n#Korean_traditional_wedding_clothes"
-        },
-        {
-          "mediaCaption": "주먹왕 랄프 테피타 한복\\n#wreckitralph #taffyta #hanbok #korean_clothes #drawing #digitalart #주먹왕랄프 #테피타 #그림계정맞팔 #소통환영 #modern_hanbok",
-          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
-          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e66332420be232dbfaded9/previews/61e66332420be232dbfadeff/download/271673814_2103125789840230_3532365578535450401_n.jpg",
-          "code": "CYlvDPUPuBf",
-          "id": "[#3ed37]"
-        },
-        {
-          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e66355d1ce53015629eb5b/previews/61e66356d1ce53015629eb62/download/271415721_638692097578634_6898435772496442223_n.jpg",
-          "code": "CYeTwnvMDbt",
-          "id": "[#d03db]",
-          "mediaCaption": "#korean_clothes",
-          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg"
-        },
-        {
-          "id": "[#25802]",
-          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e663a3218d368f46731343/download/271447644_3064065090538504_6797160392235807279_n.jpg",
-          "mediaCaption": "한국화 미인도 시리즈 80\\n산호 뒤꽂이를 한 여인\\nKorean painting, a beauty 80th\\nA beauty who wears Korean\\ntraditional clothes called Hanbok.\\n#한복그림 #한복 #미인도 #한국화\\n#한국전통의상 #한국화_느낌\\n#한복입은여인 #한국전통옷_한복\\n#illustration #Korean_painting\\n#hanbok #Korean_hanbok #beauty\\n#Korean_clothes #Korean_beauty\\n#hanbok_Korean \\n#Korean_traditional_culture\\n#Korean_traditional_culture_hanbok\\n#Korean_traditional_wedding_clothes",
-          "code": "CYVu_FLvet1",
-          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg"
-        },
-        {
-          "image": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e663c4af410187a668ed6c/previews/61e663c4af410187a668ed76/download/270281584_642244640295233_7075541086581445345_n.jpg",
-          "mediaCaption": "한국화 미인도 시리즈 79\\n전통 춤을 추는 여인\\nKorean painting, a beauty 79th\\nA beauty who wears Korean\\ntraditional clothes called Hanbok.\\n#한복그림 #한복 #미인도 #한국화\\n#한국전통의상 #한국화_느낌\\n#한복입은여인 #한국전통옷_한복\\n#illustration #Korean_painting\\n#hanbok #Korean_hanbok #beauty\\n#Korean_clothes #Korean_beauty\\n#hanbok_Korean \\n#Korean_traditional_culture\\n#Korean_traditional_culture_hanbok\\n#Korean_traditional_wedding_clothes",
-          "code": "CYD0xRMvOsI",
-          "profileImage": "https://trello.com/1/cards/60efb9b97be65b6792f8f836/attachments/61e662d294fb4259222271c1/previews/61e662d394fb4259222271c4/download/22351880_136510357078350_5295243180415909888_n.jpg",
-          "id": "[#a63b6]"
-        }
-      ],
-      "viewLayout": "iframe",
-      "itemHeight": 200,
-      "marginRight": 15,
-      "itemSpacing": 12,
-      "itemBorderRadius": 10,
-      "limit": 10,
-      "isPreviewing": null,
-      "hideCaption": true,
-      "layout": "instagramStory",
-      "marginTop": 10,
-      "pos": 1200,
-      "isBulk": null,
-      "marginLeft": 15,
-      "time": 10,
-      "hideAvatar": false,
-      "usePath": true,
-      "itemWidth": 100,
-      "path": "/explore/tags/allegrojewelry/",
-      "marginBottom": 10
-    }
-  ],
-  "Setting": {
-    "FontFamily": "Roboto",
-    "StickyHeader": false,
-    "ProductListLayout": "list",
-    "TabBarConfig": {
-      "radiusBottomLeft": 0,
-      "indicatorStyle": "none",
-      "TabBarFloating": {
-        "elevation": null,
-        "floatingType": "rectangle",
-        "width": null,
-        "height": null,
-        "radius": null,
-        "position": null,
-        "color": null,
-        "location": null
-      },
-      "radiusTopRight": 0,
-      "iconSize": 22,
-      "radiusBottomRight": 0,
-      "paddingLeft": 0,
-      "marginRight": 0,
-      "colorCart": null,
-      "isSafeArea": true,
-      "color": null,
-      "radiusTopLeft": 0,
-      "showFloating": false,
-      "colorActiveIcon": "ffb00020",
-      "showFloatingClip": true,
-      "marginLeft": 0,
-      "enableOnTop": false,
-      "colorIcon": null,
-      "paddingBottom": 0,
-      "marginBottom": 0,
-      "marginTop": 0,
-      "enable": true,
-      "paddingRight": 0,
-      "TabBarIndicator": {
-        "color": null,
-        "topRightRadius": null,
-        "height": null,
-        "bottomRightRadius": null,
-        "strokeWidth": null,
-        "radius": null,
-        "tabPosition": "bottom",
-        "verticalPadding": null,
-        "horizontalPadding": null,
-        "bottomLeftRadius": null,
-        "paintingStyle": null,
-        "distanceFromCenter": null,
-        "topLeftRadius": null
-      },
-      "paddingTop": 0
-    },
-    "MainColor": "ffa166f5",
-    "ShowChat": true,
-    "FontHeader": "Raleway"
+  "HorizonLayout":[
+  {
+  "showNotification":false,
+  "layout":"logo",
+  "menuIcon":{
+  "name":"menu_rounded",
+  "fontFamily":"MaterialIcons"
   },
-  "TabBar": [
-    {
-      "icon": "assets/icons/tabs/icon-home.png",
-      "pos": 100,
-      "fontFamily": null,
-      "label": null,
-      "layout": "home"
-    },
-    {
-      "pos": 200,
-      "categoryLayout": "card",
-      "categories": [
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzc5ODE5Mw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzgzMDk2MQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg2MzcyOQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg5NjQ5Nw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzkyOTI2NQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI3NDU4MTE2OQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjIzMTYwMQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMzUwOTU1Mw==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMyOTc5NTI0OQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTUxMTcyMzE4NQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTU1NjU0OTgwOQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQwMzYwMjYwOQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Mjg4NjI0MjQ4MQ==",
-        "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NTM3ODE1MDU3Nw=="
-      ],
-      "parallax": false,
-      "remapCategories": [
-        {
-          "name": "Gold",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
-          "name": "Ring"
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw=="
-        },
-        {
-          "name": "Bracelet",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ=="
-        },
-        {
-          "name": "Necklace",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
-          "name": "Silver"
-        },
-        {
-          "name": "Ring",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw=="
-        },
-        {
-          "name": "Necklace",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw=="
-        },
-        {
-          "name": "Others",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzgzMDk2MQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg2MzcyOQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzc5ODE5Mw==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "name": "Bestseller",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NTM3ODE1MDU3Nw==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjIzMTYwMQ==",
-          "name": "Necklace"
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTU1NjU0OTgwOQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMyOTc5NTI0OQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMzUwOTU1Mw==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg5NjQ5Nw==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTUxMTcyMzE4NQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Mjg4NjI0MjQ4MQ==",
-          "name": "Best Sellers",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQwMzYwMjYwOQ=="
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI3NDU4MTE2OQ==",
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
-        },
-        {
-          "parent": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzkyOTI2NQ=="
-        }
-      ],
-      "fontFamily": "CupertinoIcons",
-      "icon": "collections",
-      "parallaxImageRatio": 1.2,
-      "layout": "category"
-    },
-    {
-      "icon": "assets/icons/tabs/icon-search.png",
-      "label": null,
-      "layout": "search",
-      "pos": 300,
-      "fontFamily": null
-    },
-    {
-      "fontFamily": "CupertinoIcons",
-      "pos": 400,
-      "label": null,
-      "icon": "shopping_cart",
-      "layout": "cart"
-    },
-    {
-      "pos": 500,
-      "background": "assets/images/profileBG.png",
-      "layout": "profile",
-      "fontFamily": "CupertinoIcons",
-      "settings": [
-        "wishlist",
-        "notifications",
-        "language",
-        "darkTheme",
-        "order",
-        "privacy",
-        "about"
-      ],
-      "subGeneralSetting": {
-        "about": {
-          "requiredLogin": false,
-          "webViewMode": false,
-          "webUrl": "https://allegrogold.com/pages/about-us"
-        },
-        "privacy": {
-          "requiredLogin": false,
-          "webUrl": "https://allegrogold.com/policies/privacy-policy",
-          "webViewMode": false
-        }
-      },
-      "icon": "person"
-    }
-  ],
-  "AppBar": {},
-  "Drawer": {
-    "zoomConfig": {
-      "mainScreenScale": 0.3,
-      "angle": 0,
-      "style": "3Dout",
-      "slideWidth": 0.65,
-      "enableShadow": false,
-      "backgroundImage": null,
-      "borderRadius": 16,
-      "slideMargin": 0
-    },
-    "key": "i24g96u3d7",
-    "items": [
-      {
-        "type": "home",
-        "show": true
-      },
-      {
-        "type": "blog",
-        "show": true
-      },
-      {
-        "show": true,
-        "type": "categories"
-      },
-      {
-        "show": true,
-        "type": "cart"
-      },
-      {
-        "show": false,
-        "type": "profile"
-      },
-      {
-        "type": "login",
-        "show": true
-      },
-      {
-        "type": "category",
-        "show": false
-      },
-      {
-        "type": "web",
-        "show": false
-      },
-      {
-        "show": false,
-        "type": "title-9zpu4kyfuz"
-      },
-      {
-        "type": "button-idavzygk5h",
-        "show": false
-      },
-      {
-        "type": "web-j30s60kwxa",
-        "show": false
-      }
-    ],
-    "logoConfig": {
-      "height": 38,
-      "boxFit": "cover",
-      "marginBottom": 10,
-      "marginTop": 60,
-      "marginRight": 0,
-      "marginLeft": 5
-    },
-    "logo": "assets/images/logo.png",
-    "safeArea": true,
-    "filter": 0,
-    "subDrawerItem": {
-      "web-j30s60kwxa": {
-        "enableClose": false,
-        "script": "",
-        "icon": "tag",
-        "iconFontFamily": "CupertinoIcons",
-        "enableForward": false,
-        "title": "Rings",
-        "webUrl": "collections/earring",
-        "enableBackward": true,
-        "webViewMode": false,
-        "requiredLogin": false
-      },
-      "title-9zpu4kyfuz": {
-        "enableDivider": true,
-        "verticalPadding": {
-          "y": 0,
-          "x": 0
-        },
-        "title": "Gold",
-        "fontSize": null,
-        "titleColor": null
-      },
-      "button-idavzygk5h": {
-        "buttonAlignment": "centerLeft",
-        "buttons": [
-          {
-            "marginLeft": 5,
-            "marginRight": 5,
-            "image": "https://aultoon.github.io/gold/img/jewel88.png",
-            "width": 40,
-            "height": 40,
-            "radius": 0,
-            "webUrl": "https://allegrogold.com/collections/earring"
-          }
-        ]
-      }
-    }
+  "showLogo":true,
+  "showCart":true,
+  "showSearch":false,
+  "showMenu":true,
+  "image":"assets/images/logo.png",
+  "pos":100
+  },
+  {
+  "usePrimaryColor":true,
+  "paddingLeft":12,
+  "alignment":"centerLeft",
+  "isSafeArea":false,
+  "rotate":[],
+  "marginRight":20,
+  "marginTop":10,
+  "borderInput":true,
+  "fontSize":18,
+  "textOpacity":0.3,
+  "title":"Search",
+  "marginBottom":0,
+  "paddingRight":15,
+  "radius":9,
+  "paddingTop":0,
+  "boxShadow":{
+  "blurRadius":21.01010101010101,
+  "colorOpacity":0.09,
+  "y":4,
+  "x":0,
+  "spreadRadius":1.0101010101010102
+  },
+  "marginLeft":20,
+  "pos":200,
+  "showSearch":true,
+  "fontWeight":0,
+  "paddingBottom":0,
+  "height":45,
+  "layout":"header_search"
+  },
+  {
+  "labelFontSize":14,
+  "wrap":true,
+  "marginLeft":10,
+  "marginTop":10,
+  "radius":50,
+  "type":"icon",
+  "marginY":0,
+  "imageBorderWidth":null,
+  "spacing":12,
+  "line":false,
+  "showShortDescription":true,
+  "size":0.9,
+  "imageBorderStyle":"solid",
+  "hideTitle":false,
+  "paddingY":0,
+  "items":[
+  {
+  "colors":["#ff424242"],
+  "showDescription":false,
+  "image":"https://aultoon.github.io/gold/img/jewel70.png",
+  "backgroundColor":"#ffffff",
+  "originalColor":false,
+  "title":"Earring",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw==",
+  "keepDefaultTitle":true
+  },
+  {
+  "originalColor":false,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "backgroundColor":"#ffffff",
+  "colors":["#ff616161"],
+  "title":"Ring",
+  "showDescription":false,
+  "keepDefaultTitle":true,
+  "image":"https://aultoon.github.io/gold/img/jewel124.png"
+  },
+  {
+  "title":"Necklace",
+  "originalColor":false,
+  "image":"https://aultoon.github.io/gold/img/jewel46.png",
+  "colors":["#ff757575"],
+  "backgroundColor":"#ffffff",
+  "showDescription":false,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw==",
+  "keepDefaultTitle":true
+  },
+  {
+  "colors":["#ff616161"],
+  "image":"https://aultoon.github.io/gold/img/jewel74.png",
+  "originalColor":false,
+  "title":"Bracelet",
+  "backgroundColor":"#ffffff",
+  "keepDefaultTitle":true,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
+  "showDescription":false
+  },
+  {
+  "backgroundColor":"#ffffff",
+  "image":"https://aultoon.github.io/gold/img/jewel88.png",
+  "colors":["#ff616161"],
+  "keepDefaultTitle":true,
+  "showDescription":false,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
+  "title":"New Collection",
+  "originalColor":true
   }
-}
+  ],
+  "marginX":0,
+  "pos":300,
+  "paddingX":0,
+  "marginBottom":10,
+  "layout":"category",
+  "noBackground":false,
+  "marginRight":10,
+  "imageSpacing":0,
+  "imageBorderColor":null
+  },
+  {
+  "isBlur":false,
+  "fit":"fitWidth",
+  "design":"swiper",
+  "pos":400,
+  "autoPlay":false,
+  "marginRight":null,
+  "intervalTime":3,
+  "marginLeft":null,
+  "showNumber":false,
+  "parallax":false,
+  "marginTop":0,
+  "showBackground":false,
+  "enableParallax":false,
+  "items":[
+  {
+  "products":[],
+  "image":"https://aultoon.github.io/gold/img/slide1.jpg",
+  "showSubcategory":false,
+  "bannerWithProduct":false,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "defaultShowProduct":false
+  },
+  {
+  "bannerWithProduct":false,
+  "defaultShowProduct":false,
+  "image":"https://aultoon.github.io/gold/img/slide2.jpg",
+  "showSubcategory":false,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
+  "products":[]
+  },
+  {
+  "image":"https://aultoon.github.io/gold/img/slide3.jpg",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
+  "products":[],
+  "defaultShowProduct":false,
+  "bannerWithProduct":false,
+  "showSubcategory":false
+  }
+  ],
+  "padding":0,
+  "layout":"bannerImage",
+  "radius":20,
+  "isSlider":true,
+  "upHeight":0,
+  "marginBottom":0,
+  "parallaxImageRatio":1.2
+  },
+  {
+  "hideEmptyProductListRating":false,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
+  "vPadding":0,
+  "showCartButtonWithQuantity":false,
+  "showCartIcon":true,
+  "image":"",
+  "hPadding":8,
+  "cardDesign":"card",
+  "pos":500,
+  "showCartButton":false,
+  "enableRating":false,
+  "borderRadius":12,
+  "backgroundWidthMode":true,
+  "rows":1,
+  "boxShadow":{
+  "y":9,
+  "colorOpacity":0.1,
+  "spreadRadius":10,
+  "blurRadius":10,
+  "x":7
+  },
+  "spaceWidth":12.608443859011626,
+  "vMargin":18,
+  "columns":0,
+  "hMargin":9,
+  "onSale":false,
+  "featured":false,
+  "showCartIconColor":false,
+  "hideTitle":false,
+  "name":"New Collection ⭐️",
+  "isBulk":null,
+  "showCountDown":false,
+  "imageBoxfit":"cover",
+  "enableBottomAddToCart":false,
+  "hidePrice":false,
+  "hideStore":false,
+  "parallax":false,
+  "showOnlyImage":false,
+  "layout":"threeColumn",
+  "showQuantity":false,
+  "backgroundHeight":183,
+  "cartIconRadius":9,
+  "isPreviewing":null,
+  "isSnapping":true,
+  "imageRatio":1.2,
+  "showHeart":false,
+  "parallaxImageRatio":1.2,
+  "backgroundRadius":0,
+  "showStockStatus":false
+  },
+  {
+  "featured":false,
+  "showQuantity":false,
+  "enableBottomAddToCart":false,
+  "parallax":false,
+  "borderRadius":3,
+  "imageBoxfit":"cover",
+  "showCartButtonWithQuantity":false,
+  "showStockStatus":true,
+  "hidePrice":false,
+  "cartIconRadius":9,
+  "hPadding":0,
+  "showCartButton":false,
+  "showCartIcon":true,
+  "showHeart":false,
+  "vPadding":0,
+  "columns":0,
+  "hideTitle":false,
+  "imageRatio":1.2,
+  "backgroundRadius":10,
+  "vMargin":0,
+  "rows":1,
+  "hideStore":false,
+  "isSnapping":false,
+  "onSale":false,
+  "hideEmptyProductListRating":false,
+  "name":"Gold Rings",
+  "parallaxImageRatio":1.2,
+  "pos":600,
+  "cardDesign":"card",
+  "showCartIconColor":false,
+  "showCountDown":false,
+  "hMargin":6,
+  "image":"",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "layout":"fourColumn",
+  "enableRating":true,
+  "showOnlyImage":false
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw==",
+  "hidePrice":false,
+  "backgroundRadius":10,
+  "columns":3,
+  "layout":"threeColumn",
+  "enableRating":true,
+  "hMargin":6,
+  "showCountDown":false,
+  "parallaxImageRatio":1.2,
+  "hideTitle":false,
+  "hideStore":true,
+  "showCartIcon":true,
+  "showQuantity":false,
+  "showCartIconColor":false,
+  "imageRatio":1.2,
+  "isSnapping":false,
+  "hideEmptyProductListRating":false,
+  "cardDesign":"card",
+  "parallax":false,
+  "showHeart":false,
+  "vMargin":0,
+  "isPreviewing":null,
+  "image":"",
+  "showOnlyImage":false,
+  "rows":1,
+  "showCartButton":false,
+  "borderRadius":3,
+  "onSale":false,
+  "hPadding":6,
+  "cartIconRadius":9,
+  "name":"Silver Necklaces",
+  "enableBottomAddToCart":false,
+  "pos":700,
+  "showCartButtonWithQuantity":false,
+  "isBulk":null,
+  "vPadding":2,
+  "imageBoxfit":"contain",
+  "showStockStatus":false
+  },
+  {
+  "layout":"threeColumn",
+  "isPreviewing":null,
+  "backgroundWidthMode":true,
+  "isBulk":null,
+  "vPadding":0,
+  "showCartIconColor":false,
+  "cardDesign":"card",
+  "isSnapping":true,
+  "showOnlyImage":false,
+  "cartIconRadius":9,
+  "backgroundHeight":183,
+  "image":"",
+  "hideStore":false,
+  "vMargin":18,
+  "pos":800,
+  "spaceWidth":12.608443859011626,
+  "imageRatio":1.2,
+  "name":"Silver Rings 💍",
+  "parallaxImageRatio":1.2,
+  "featured":false,
+  "boxShadow":{
+  "x":7,
+  "colorOpacity":0.1,
+  "spreadRadius":10,
+  "blurRadius":10,
+  "y":9
+  },
+  "showCartButton":false,
+  "columns":0,
+  "imageBoxfit":"cover",
+  "onSale":false,
+  "parallax":false,
+  "hideTitle":false,
+  "showCountDown":false,
+  "hMargin":9,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
+  "borderRadius":12,
+  "hideEmptyProductListRating":false,
+  "enableRating":false,
+  "enableBottomAddToCart":false,
+  "hPadding":8,
+  "showQuantity":false,
+  "showCartButtonWithQuantity":false,
+  "hidePrice":false,
+  "rows":1,
+  "showHeart":false,
+  "backgroundRadius":0,
+  "showStockStatus":false,
+  "showCartIcon":true
+  },
+  {
+  "name":"Recent View",
+  "layout":"recentView",
+  "pos":900
+  },
+  {
+  "layout":"blog",
+  "pos":1000,
+  "name":"Our Blog Posts"
+  },
+  {
+  "vPadding":0,
+  "hMargin":6,
+  "cartIconRadius":9,
+  "imageBoxfit":"cover",
+  "enableRating":true,
+  "borderRadius":3,
+  "vMargin":0,
+  "isBulk":null,
+  "enableBottomAddToCart":false,
+  "hidePrice":false,
+  "pos":1100,
+  "hideEmptyProductListRating":false,
+  "layout":"simpleList",
+  "backgroundHeight":250,
+  "isSnapping":false,
+  "showCartButton":false,
+  "showCartButtonWithQuantity":false,
+  "columns":3,
+  "hPadding":0,
+  "hideTitle":false,
+  "name":"Best Sellers 💫",
+  "parallaxImageRatio":1.2,
+  "showCartIconColor":false,
+  "isPreviewing":null,
+  "showHeart":false,
+  "cardDesign":"card",
+  "image":"",
+  "backgroundWidthMode":true,
+  "onSale":false,
+  "rows":1,
+  "showQuantity":false,
+  "showCartIcon":true,
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Mjg4NjI0MjQ4MQ==",
+  "imageRatio":1.2,
+  "hideStore":false,
+  "showStockStatus":true,
+  "limit":20,
+  "showCountDown":false,
+  "showOnlyImage":false,
+  "backgroundRadius":10,
+  "parallax":false
+  },
+  {
+  "path":"/explore/tags/allegrojewelry",
+  "items":[
+  {
+  "id":"[#39737]",
+  "code":"",
+  "mediaCaption":""
+  },
+  {
+  "id":"[#17290]",
+  "code":"",
+  "mediaCaption":""
+  },
+  {
+  "id":"[#f0ed7]",
+  "code":"",
+  "mediaCaption":""
+  },
+  {
+  "id":"[#7df6f]",
+  "code":"",
+  "mediaCaption":""
+  }
+  ],
+  "usePath":true,
+  "marginLeft":15,
+  "marginRight":15,
+  "marginTop":10,
+  "marginBottom":10,
+  "limit":10,
+  "time":10,
+  "itemBorderRadius":10,
+  "itemWidth":100,
+  "itemHeight":200,
+  "viewLayout":"media",
+  "itemSpacing":12,
+  "hideAvatar":true,
+  "hideCaption":true,
+  "layout":"instagramStory",
+  "pos":1200
+  }
+  ],
+  "Setting":{
+  "FontHeader":"Raleway",
+  "TabBarConfig":{
+  "paddingBottom":0,
+  "enable":true,
+  "indicatorStyle":"none",
+  "radiusTopRight":0,
+  "showFloating":false,
+  "paddingTop":0,
+  "isSafeArea":true,
+  "radiusBottomLeft":0,
+  "iconSize":22,
+  "radiusTopLeft":0,
+  "color":null,
+  "paddingLeft":0,
+  "paddingRight":0,
+  "colorIcon":null,
+  "radiusBottomRight":0,
+  "marginRight":0,
+  "colorCart":null,
+  "TabBarIndicator":{
+  "topRightRadius":null,
+  "bottomRightRadius":null,
+  "tabPosition":"bottom",
+  "horizontalPadding":null,
+  "bottomLeftRadius":null,
+  "topLeftRadius":null,
+  "verticalPadding":null,
+  "strokeWidth":null,
+  "paintingStyle":null,
+  "height":null,
+  "color":null,
+  "distanceFromCenter":null,
+  "radius":null
+  },
+  "marginBottom":0,
+  "marginTop":0,
+  "colorActiveIcon":"ffb00020",
+  "enableOnTop":false,
+  "marginLeft":0,
+  "TabBarFloating":{
+  "location":null,
+  "elevation":null,
+  "floatingType":"rectangle",
+  "color":null,
+  "height":null,
+  "radius":null,
+  "position":null,
+  "width":null
+  },
+  "showFloatingClip":true
+  },
+  "ProductListLayout":"list",
+  "MainColor":"ff454545",
+  "StickyHeader":false,
+  "FontFamily":"Roboto",
+  "ShowChat":true
+  },
+  "TabBar":[
+  {
+  "layout":"home",
+  "icon":"assets/icons/tabs/icon-home.png",
+  "label":null,
+  "pos":100,
+  "fontFamily":null
+  },
+  {
+  "categoryLayout":"card",
+  "remapCategories":[
+  {
+  "name":"Gold",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "name":"Ring"
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "name":"Bracelet"
+  },
+  {
+  "name":"Necklace",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw=="
+  },
+  {
+  "name":"Silver",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
+  "name":"Ring"
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw==",
+  "name":"Necklace"
+  },
+  {
+  "name":"Others",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzgzMDk2MQ=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg2MzcyOQ=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzc5ODE5Mw=="
+  },
+  {
+  "name":"Bestseller",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NTM3ODE1MDU3Nw==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjIzMTYwMQ==",
+  "name":"Necklace"
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTU1NjU0OTgwOQ==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMyOTc5NTI0OQ=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMzUwOTU1Mw==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg5NjQ5Nw=="
+  },
+  {
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTUxMTcyMzE4NQ=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Mjg4NjI0MjQ4MQ==",
+  "name":"Best Sellers",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQwMzYwMjYwOQ==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI3NDU4MTE2OQ==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw=="
+  },
+  {
+  "category":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzkyOTI2NQ==",
+  "parent":"Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ=="
+  }
+  ],
+  "parallaxImageRatio":1.2,
+  "pos":200,
+  "layout":"category",
+  "parallax":false,
+  "fontFamily":"CupertinoIcons",
+  "icon":"collections",
+  "categories":["Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDQ3NDE2MQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MDUzOTY5Nw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTQyNDQzMw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3NzI1MTUyMjczNw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3ODQ5NDgzODk2MQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MDEzNTc5NDg2NQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzc5ODE5Mw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzgzMDk2MQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg2MzcyOQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2Nzg5NjQ5Nw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI2NzkyOTI2NQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTI3NDU4MTE2OQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjEwMDUyOQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjE5ODgzMw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjIzMTYwMQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMjM2MjY3Mw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMxMzUwOTU1Mw==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTMyOTc5NTI0OQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTUxMTcyMzE4NQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MTU1NjU0OTgwOQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQwMzYwMjYwOQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjQzNTg0NjMyMQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Mjg4NjI0MjQ4MQ==",
+  "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NTM3ODE1MDU3Nw=="]
+  },
+  {
+  "icon":"assets/icons/tabs/icon-search.png",
+  "fontFamily":null,
+  "label":null,
+  "layout":"search",
+  "pos":300
+  },
+  {
+  "pos":400,
+  "fontFamily":"CupertinoIcons",
+  "layout":"cart",
+  "icon":"shopping_cart",
+  "label":null
+  },
+  {
+  "pos":500,
+  "subGeneralSetting":{
+  "privacy":{
+  "webUrl":"https://allegrogold.com/policies/privacy-policy",
+  "requiredLogin":false,
+  "webViewMode":false
+  },
+  "about":{
+  "webViewMode":false,
+  "webUrl":"https://allegrogold.com/pages/about-us",
+  "requiredLogin":false}
+  },
+  "settings":["wishlist",
+  "notifications",
+  "language",
+  "darkTheme",
+  "order",
+  "privacy",
+  "about"],
+  "fontFamily":"CupertinoIcons",
+  "background":"assets/images/profileBG.png",
+  "icon":"person",
+  "layout":"profile"
+  }
+  ],
+  "AppBar":{
+  },
+  "Drawer":{
+  "subDrawerItem":{
+  "button-idavzygk5h":{
+  "buttonAlignment":"centerLeft",
+  "buttons":[
+  {
+  "image":"https://aultoon.github.io/gold/img/jewel88.png",
+  "marginLeft":5,
+  "webUrl":"https://allegrogold.com/collections/earring",
+  "width":40,
+  "radius":0,
+  "height":40,
+  "marginRight":5
+  }
+  ]
+  },
+  "web-j30s60kwxa":{
+  "webUrl":"collections/earring",
+  "requiredLogin":false,
+  "enableForward":false,
+  "webViewMode":false,
+  "enableClose":false,
+  "iconFontFamily":"CupertinoIcons",
+  "icon":"tag",
+  "script":"",
+  "title":"Rings",
+  "enableBackward":true
+  },
+  "title-9zpu4kyfuz":{
+  "fontSize":null,
+  "enableDivider":true,
+  "verticalPadding":{
+  "y":0,
+  "x":0
+  },
+  "title":"Gold",
+  "titleColor":null}
+  },
+  "logoConfig":{
+  "marginLeft":5,
+  "marginRight":0,
+  "marginTop":60,
+  "boxFit":"cover",
+  "marginBottom":10,
+  "height":38
+  },
+  "key":"i24g96u3d7",
+  "safeArea":true,
+  "logo":"assets/images/logo.png",
+  "zoomConfig":{
+  "backgroundImage":null,
+  "style":"3Dout",
+  "slideWidth":0.65,
+  "angle":0,
+  "enableShadow":false,
+  "mainScreenScale":0.3,
+  "borderRadius":16,
+  "slideMargin":0
+  },
+  "items":[
+  {
+  "type":"home",
+  "show":true
+  },
+  {
+  "show":true,
+  "type":"blog"
+  },
+  {
+  "type":"categories",
+  "show":true
+  },
+  {
+  "type":"cart",
+  "show":true
+  },
+  {
+  "type":"profile",
+  "show":false
+  },
+  {
+  "show":true,
+  "type":"login"
+  },
+  {
+  "show":false,
+  "type":"category"
+  },
+  {
+  "show":false,
+  "type":"web"
+  },
+  {
+  "type":"title-9zpu4kyfuz",
+  "show":false
+  },
+  {
+  "show":false,
+  "type":"button-idavzygk5h"
+  },
+  {
+  "show":false,
+  "type":"web-j30s60kwxa"
+  }
+  ],
+  "filter":0}}
